@@ -1,95 +1,61 @@
-# Client Dashboard
+# CLIENT - DASHBOARD
 
-- ازاي اقدر اوصل للصفحة دي ؟
-  
-![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/b11f36af-8a66-43fb-b678-626ff7fb444e)
-
-
-- فحالة كان الوصول لها من خلال زر التسجيل للعملاء الجدد فا في نهاية الصفحات دي المفترض ان العميل بيحصل بالفعل على تمويل مالي و لكن هو لم يختار اي شئ بعد و دا موضح في الصفحة الاخيرة
- 
-![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/21cea580-8669-45e7-8d40-08f78c06cae5)
+- العميل قال ان الجزئية دي يتم نقلها لما العميل يحتاج تمويل مش بعد التسجيل مباشرة و التسجيل يكون OTP و خلاص
+![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/ee7cf778-1cdc-4845-adc7-20702fb7f858)
 
 
-- بالاضافة ان الموقع بيوضح ان العميل ممكن يشتري نقدي بدون تمويل زي و في نفس الصورة طلب تمويل فا بالتالي طلب التمويل دا المفترض ساعتها يحولني على الصحفات اللي هبدأ احط فيها بيناتي؟ ولا المفترض دي صفحات لسه هيتم انشاءها ؟
+- بالنسبة للجزئية دي اتكلمنا فيها و وضحت للعميل ان دي جزئيات متتابعه و غير مربوطه بتصفح 
+![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/2c55340f-1a42-4102-9abc-b051d915114c)
 
-  
-![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/4002e2ee-1ed1-43ca-94d3-98db0904af38)
+- بالنسبة ليا انا بقى كدا هكون محتاج اعرف كل جزئية من الجزئيات الخاصة بالمراحل دي هتكون عبارة عن ايه و هعرض ايه فكل مرحلة ( تصميم ) لان هم المفترض 18 مرحلة 
 
-- بالنسبة للنقطة دي المفترض هنا الصفحة دي هتكون موجوده عند التحويل لشكل عرض اخر فهل المفترض الصور اللي موجوده على الشمال دي خاصة بالاعلانات الخاصة بالعقارات و كل صورة تعبر عن عقار و مع تغير كل صورة يظهرلي خريطة العقار و معلوماته؟ ولا دي مجموعة صور لعقار واحد عارضه كل تفاصيل البصرية للعقار؟
-
-  
-![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/d64b17f6-8257-43a3-98b0-a990010039e6)
-
-
- - مفيش صفحة اضافة العميل يضيف منها عقار للموقع
-
-![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/95fb2704-37d1-4a53-8546-db6be5a65d58)
+-  الصفحات دي مازالت مش موجوده 
+![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/185f4a6d-ae6d-4134-ad66-b2cc52bfbecf)
+![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/95da333d-7d43-4f44-8d9b-2c6c3a9f111d)
 
 
-- صفحات المفضلة و حجزي غير موجوده
+# ADMIN - DASHBOARD
+
+- سألت العميل عن جزئية الفلتر دا و قالي ان يفضل يكون في مكان لوحده بحيث ان يقدر يعرض جدول كبير يخص التفاصيل المختارة فا بالتالي المفترض دي هتكون صفحة جديدة بجدول يضم كل التفاصيل دي
+
+![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/9473f2ac-907a-4429-88ec-bbf0576b652a)
 
 
-![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/dbce5472-073c-4c3f-bc95-99e2bd5c69c7)
-  
+- اللينكات دي المفترض تكون ديناميكية عشان كل طلب مختلف عن التاني فا اعتقد مكانهم هنا مش مناسب و يكونوا مجرد صفحات زي الجزئية المشابها ليها في جهة التمويل
+![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/462aed98-b208-4b2a-b08d-fce7d9f9a577)
 
 
-- الجزء الخاص بمتابعة طلب التمويل غير واضح بشكل كافي
-  
+- التوضيح اللي قصدي انهم يكونوا زي كدا بحيث انهم يكونوا خاصين بطلب واحد وليس بصفحة رئيسية
+![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/4e2eaccc-3794-4704-8136-62d3657b55cb)
 
-![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/618004a3-d69e-4fb1-af39-02d9dcc1e323)
 
-  1. اولا بسبب ان يوجد اكتر من صفحة و مش واضح ازاي اقدر اتنقل بينهم لان مفيش لينكات بتوضح كدا ولا روتين يقدر المستخدم يمشي عليه ينقله بين الصفحات المرتبطه ببعضها او المختلفه
-  2. المفترض الجزء دا هيكون فيه البينات اللي العميل هيبعتها ولكن من الواضح ان في قدرة للعميل انه يقدر يغير البيانات بمجرد رفعها فهل دا مش هيكون له اثر سلبي انه يقدر يتفاعل بشكل مستمر مع البيانات المرسلة؟ - ايضا لا يوجد ازرار ارسال الملفات فحين الانتهاء من رفع الملفات كلها فهل من المفترض جزء زي دا يكون مثلا ارفاق مستندات العميل و يجيله التنبيهات الخاصة بالحاجات دي خلال الاشعارات ! 
-![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/508d6461-7605-4444-9905-30c0d14e0208)
+- العرض الخاص ببيانات التمويل غير موجود
+
+![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/efa9c2f4-99bc-485d-8825-cb2e0f199101)
+
+
+- صفحة الطلبات العقارية مش واضحة ولما ركزت في التفاصيل ليقتها هى هى صفحة العملاء 
+![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/6fd5ba19-9bd4-4885-b07b-b25f230c7b3f)
 
 
 
----
-#  Real Estate Developer
+# REAL-ESTATE-DEVELOPER
 
-- ايه الحالة اللي بيعبر عنها المشروع و ايه المفترض تكون الحالة الرئيسية لها لان عند اضافة مشروع جديد مفيش مصدر ادخال لطبيعه حالة المشروع
-
-![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/1df246a0-0559-46fa-aabc-c6ae8535b09a)
+- اتكلمنا مع العميل و الجزئية دي هتتشال لانها بدون تفاصيل للمشاريع الداخلية
+![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/fdf859d6-47f9-40f2-8688-c99b064c4dd9)
 
 
-- نوعية الادخال هنا مختلفه عن المطلوب هل الاعداد هتكون محدودة من خلال الDrop down menu ولا المفترض يتم تعديل الادخال لارقام بحيث العميل يقدر يدخل العدد اللي هو مناسب له ؟ 
-
-![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/b172501b-a979-4d8c-8098-c6b7209af0bd)
-
-
-- عدد الصور الموضحه في الادخال محدود و اقل من عدد الصور المعروضه بالفعل في صفحة عرض العقار
-
-
-![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/77e36277-754b-4e5a-ac7f-4f6e873ea51b)
-
-![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/ef8d8cf7-0151-4de0-afd8-dabb4f41521d)
-
-
-- بعض اماكن ادخال البيانات قد تكون غير واضحة من حيث نوعية الطلب و نوعية الاجابة ( المفترض هنا تكون الادخال اجابته ثنائية ( اه او لا ) ولكن الموضح في التصميم عكس ذلك )
-
-![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/f02bf1e3-2167-4b68-8887-459e1c721d82)
-
-
-- الجزء الخاص بعرض العقار يوجد وصف ( في الجزء الخاص بادخال بينات العقار لا يوجد ادخال للوصف 
-
-  ![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/f6678b21-6df3-4221-a853-bdb0fd4531c7)
-
-  
-
-- جميع الصفحات من اول لصفحة حتى الصفحة الخاصة بعرض العقار فعال فيها نفس اللينك و النقطه دي متكررة في كل الDashboards تقريبا و دا مش صحيح لان يوجد اكتر من صفحة بlink مختلف تمام عن اللينك الاساسي
-
-  ![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/9b3fb87e-45a4-4f93-914e-677ea4a65a34)
+- بالنسبة للجزئية دي هل العميل هنخليه يدخل الاماكن دي اختيارا بين المدن و المناطق الموجوده في السعودية ؟ ولا هيكون ازاي لان انا المفترض عندي جزئية مطلوبة ان انا اوضح المكان على الخريطة من خلال ال lng-lat فا هل هيكون في اختلاف في انواع الادخال؟ و يكون الخيارين موجودين ولا هيكون اختيار واحد ان احنا نعمل خدمة ادخال عن العنوان عن طريق الخريطة فقط؟
+- ايه هو الرابط الخاص بالعقار ؟ بيكون عبارة عن ايه
+![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/693b4177-e1af-4dbd-936f-2be01b958ad4)
 
 
 
+- بالنسبة للجزئية دي هيتم التعديل على نوعية الادخال فا لو هيكون في اي تعديل من خلال التصميم ياريت لان ذوقي الجمالي سئ جدا
+![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/b2647ba9-574a-4bb1-8ca6-b701d3e28fbd)
 
-  ---
-  # Financing Entity
-  
 
-  - ازاي اقدر اوصل للصفحة دي ؟ + هل نوعية الاشعارات ثابته ؟ ماذا تعني الاذرار و اين صفحات التفاعل الخاص بها
-  - 
+- صفحة حساباتي لم تضاف
+- ![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/ad44c80e-0218-48fe-b0e8-5587668bd068)
 
-![image](https://github.com/Muhammed-Ibrahem/Arab-Assets-UI-notes/assets/112376589/448e10db-8c72-492f-908c-dd043c05ffcd)
 
-  
